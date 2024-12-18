@@ -36,3 +36,5 @@ Chaire!
 
 [![My Skills](https://skillicons.dev/icons?i=linux,redhat,ubuntu,kali,bash,vim,nginx,raspberrypi,,,,windows,powershell,azure,aws,python,rust,go,c,cpp,,ansible,docker,kubernetes,terraform,jenkins,git,gitlab,bitbucket,rabbitmq,mysql,postgres,mongodb,redis,,,elasticsearch,prometheus,grafana)](https://skillicons.dev)
 
+
+<!-- Test -->
